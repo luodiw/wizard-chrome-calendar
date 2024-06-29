@@ -5,6 +5,8 @@ Calendar Wizard is an AI Chrome extension that understands and creates events in
 Video Demo Here:
 [calendar-wizard-demo](./calendar-wizard-demo-edited.mp4)
 
+Preview of the Chrome extension here:
+![chrome](src/assets/chrome.png)
 
 ## Running the Application
 
@@ -35,5 +37,14 @@ pnpm dev
 your-path-to-magic-cal/dist
 ```
 
-It may take a bit to show up in your Calendar, but you should see a dropdown.
+It may take a bit for the event to show up in your Calendar, but you should see a dropdown.
 ![dropdown](src/assets/dropdown.png)
+
+Then, write what you want to happen!
+![popup](src/assets/HTML_popup.png)
+
+The event would appear:
+![appear](src/assets/appear.png)
+
+Finally, after confirmation:
+![event](src/assets/created_event.png)

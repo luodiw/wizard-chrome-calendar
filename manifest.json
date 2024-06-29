@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Calendar Wizard",
-  "author": "Luodi Wang <luodiw9@gmail.com>",
+  "author": "Luodi Wang <lwang4319@gmail.com>",
   "version": "1.0.0",
   "description": "A Chrome extension that automates your Google Calendar events.",
   "permissions": [],
