@@ -4,9 +4,6 @@ dotenv.config();
 
 import {
   createGoogleCalendarUrl,
-  createAppleCalendarUrl,
-  createOutlookCalendarUrl,
-  createYahooCalendarUrl,
 } from './utils.js';
 
 import { promptFewShot } from './prompt.js';
@@ -42,9 +39,6 @@ export default async function textEndpoint(req, res) {
     res.json({
       ...output,
       google_calendar_link: createGoogleCalendarUrl(output),
-      apple_calendar_link: createAppleCalendarUrl(output),
-      outlook_calendar_link: createOutlookCalendarUrl(output),
-      yahoo_calendar_link: createYahooCalendarUrl(output),
     });
   } catch (error) {
     // Handle errors:
