@@ -3,7 +3,7 @@
 Calendar Wizard is an AI Chrome extension that understands and creates events in Google Calendar for you. Tap "Create an Event with AI" under Create Event- then just write a description in the pop-up and you'll get the event ready to go. All you need is to click SAVE to get it onto your calendar.
 
 Video Demo Here:
-<video width="320" height="240" controls>
+<video>
   <source src="./calendar-wizard-demo-edited.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
