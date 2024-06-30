@@ -5,6 +5,7 @@ Calendar Wizard is an AI Chrome extension that understands and creates events in
 Video Demo Here:
 [calendar-wizard-demo](./calendar-wizard-demo-edited.mp4)
 https://github.com/luodiw/wizard-chrome-calendar/calendar-wizard-demo-edited.mp4 
+![](./calendar-wizard-demo-edited.mp4)
 
 Preview of the Chrome extension here:
 ![chrome](src/assets/chrome.png)
